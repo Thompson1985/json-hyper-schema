@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/mokkabonna/json-hyper-schema#readme",
   "dependencies": {
-    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-prettier": "^4.2.1",
     "json-pointer": "^0.6.2",
     "json-schema-traverse": "^1.0.0",
